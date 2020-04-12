@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+a {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+
+a:hover {
+    color: purple;
+}
+
+ul {
+    margin: 0;
+    flex: content;
+    padding-left: 25%;
+}
+
+li {
+   display: inline-block;
+   margin-right: 20px;
+}
