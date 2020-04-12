@@ -1,0 +1,29 @@
+article {
+    box-sizing: border-box;
+    width: 470px;
+    padding: 10px;
+}
+
+.heading {
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+font-family: 'Ubuntu', sans-serif;
+text-transform: uppercase;
+color: #b4ad9e;
+}
+
+h2 {
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+font-family: 'Playfair Display', serif;
+color: #626262;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+}
+
+.text{
+font-family: 'Playfair Display', serif;
+color: #626262;
+font-size: 14px;
+line-height: 1.714;
+text-align: left;
+}
